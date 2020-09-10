@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  feeding_quantity: 1.5
+  feeding_time: 1.5
+
+two:
+  feeding_quantity: 1.5
+  feeding_time: 1.5
